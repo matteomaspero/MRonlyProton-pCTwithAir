@@ -36,14 +36,14 @@ set(0,'DefaultAxesFontSize',Size_ftn,'DefaultAxesFontName',Name_ftn,...
     'DefaultTextFontname','Times New Roman');
 
 %------------------------ Path to include with utils-----------------------
-genpath('./utils/');
+addpath(genpath('./utils/'));
 
 %% Settings Preliminary Params
 
 VisualVol=1234;  % 1234 to Visualize the volumes
 
 %Selection of the patients
-Pti=[3;4;7;8];
+Pti=[3;4;7;8;9];
 
 %% Pseudo-HU utilized in the pseudo-CT
 % Huonsfield Unit used in MRCAT v257 (Philips, Vantaa, Finland), check
@@ -71,7 +71,7 @@ load('./MAt/DataMR.mat')
 
 tiic=tic;
 % Loop over the patient
-for ssssl=4%1:numel(Pti)
+for ssssl=5%1:numel(Pti)
     
     tStart = tic;
     Pt=Pti(ssssl);
@@ -79,8 +79,12 @@ for ssssl=4%1:numel(Pti)
     disp(['Processing Pt',num2str(Pt,'%04u')])
     
     % Open the selected patient
-    load(['MAt/P',num2str(Pt,'%i'),'.mat'])
-    
+    load(['MAt/P',num2str(Pt,'%i'),'_CT.mat'])
+    load(['MAt/P',num2str(Pt,'%i'),'_MRCAT.mat'])
+    load(['MAt/P',num2str(Pt,'%i'),'_MRCAT_F.mat'])
+    load(['MAt/P',num2str(Pt,'%i'),'_MRCAT_W.mat'])
+    load(['MAt/P',num2str(Pt,'%i'),'_MRCAT_IP.mat'])
+        
     %view3dgui(CT,VoxCT)
     if VisualVol==1234
         view3dgui(CT,DataMR.VoxelSize,'transverse')
