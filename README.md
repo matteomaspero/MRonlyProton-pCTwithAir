@@ -1,15 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to the MR-only proton Radiotherapy project
 
-You can use the [editor on GitHub](https://github.com/matteomaspero/MRonlyProton-pCTwithAir/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This work aims at exploring the feasibility of MR-only proton Radiotherapy for prostate cancer patients.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### What can you find here?
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+The matlab code to produce bulk assigned pseudo-CT (pCT) with internal air cavities. The code is intended to integrated the pCTs originally produced with a commercial solution. The description of the method has been presented in Maspero et al., 2017, which has been submitted to Physics in Medicine and Biology under the title "Feasibility of MR-only proton radiotherapy planning for prostate cancer using a commercial pseudo-CT generation method".
 
 # Header 1
 ## Header 2
