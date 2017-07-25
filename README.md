@@ -1,6 +1,6 @@
 ## Welcome to the MR-only proton Radiotherapy project
 
-This work aims at exploring the feasibility of MR-only proton Radiotherapy for prostate cancer patients.
+This work aims at exploring the feasibility of MR-only proton Radiotherapy for prostate cancer patients. Note that the code will be published upon publication of the related manuscript.
 
 ### What can you find here?
 
