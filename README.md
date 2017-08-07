@@ -4,7 +4,7 @@ This work aims at exploring the feasibility of MR-only proton Radiotherapy for p
 
 ### What can you find here?
 
-The matlab code to produce bulk assigned pseudo-CT (pCT) with internal air cavities. The code is intended to integrated the pCTs originally produced with a commercial solution. The description of the method has been presented in Maspero et al., 2017, which has been submitted to Physics in Medicine and Biology under the title "Feasibility of MR-only proton radiotherapy planning for prostate cancer using a commercial pseudo-CT generation method".
+The matlab code to produce bulk assigned pseudo-CT (pCT) with internal air cavities. The code is intended to integrate the pCTs originally produced with a commercial solution. The description of the method has been presented in Maspero et al., 2017, which has been submitted to Physics in Medicine and Biology under the title "Feasibility of MR-only proton radiotherapy planning for prostate cancer using a commercial pseudo-CT generation method".
 
 ### How to...
 
