@@ -12,7 +12,7 @@ Run the code? Simply clone/download the repository and run Preparation_MRCAT_MRa
 
 ### Authors and Contributors
 
-Maspero Matteo (@matteomaspero), PhD candidate at University Medical Center Utrecht, The Netherlands. In case you are using any of the material, please refer to the article. The link to the article will be here presented as soon as published.
+Maspero Matteo ([@matteomaspero](https://github.com/matteomaspero)), PhD candidate at University Medical Center Utrecht, The Netherlands. In case you are using any of the material, please refer to the article. The link to the article will be here presented as soon as published.
 
 ### Support or Contact
 
