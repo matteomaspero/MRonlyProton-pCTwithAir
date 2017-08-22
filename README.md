@@ -19,4 +19,4 @@ In case of questions or issues, please contact the owner of the repository & weâ
 Maspero Matteo ([@matteomaspero](https://github.com/matteomaspero)), PhD candidate at University Medical Center Utrecht, The Netherlands. In case you are using any of the material, please refer to the article. The link to the article will be here presented as soon as published.
 
 _Are you interested in related code from the same author?_
-Check out the following github project: https://matteomaspero.github.io/pseudo-CT_generation/
+Check out the following github project: [https://matteomaspero.github.io/pseudo-CT_generation/](https://matteomaspero.github.io/pseudo-CT_generation/)
