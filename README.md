@@ -18,5 +18,5 @@ Maspero Matteo ([@matteomaspero](https://github.com/matteomaspero)), PhD candida
 
 In case of questions or issues, please contact the owner of the repository & we’ll help you sort it out. Thank yo very much in advance for your questions!
 
-### Are you interested in similar code?
-Check the following github project:https://matteomaspero.github.io/pseudo-CT_generation/
+### Are you interested in related code from the same author?
+You may want to check the following github project: https://matteomaspero.github.io/pseudo-CT_generation/
