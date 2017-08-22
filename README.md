@@ -10,13 +10,12 @@ The matlab code to produce bulk assigned pseudo-CT (pCT) with internal air cavit
 
 Run the code? Simply clone/download the repository and run Preparation_MRCAT_MRair.m within Matlab. Note that the code has been developed and benchmarked in Matlab R2015a and we do not ensure/support workability for different versions of Matlab.
 
-### Authors and Contributors
-
-Maspero Matteo ([@matteomaspero](https://github.com/matteomaspero)), PhD candidate at University Medical Center Utrecht, The Netherlands. In case you are using any of the material, please refer to the article. The link to the article will be here presented as soon as published.
-
 ### Support or Contact
 
 In case of questions or issues, please contact the owner of the repository & we’ll help you sort it out. Thank yo very much in advance for your questions!
 
-### Are you interested in related code from the same author?
-You may want to check the following github project: https://matteomaspero.github.io/pseudo-CT_generation/
+### Authors and Contributors
+
+Maspero Matteo ([@matteomaspero](https://github.com/matteomaspero)), PhD candidate at University Medical Center Utrecht, The Netherlands. In case you are using any of the material, please refer to the article. The link to the article will be here presented as soon as published.
+_Are you interested in related code from the same author?_
+Check out the following github project: https://matteomaspero.github.io/pseudo-CT_generation/
