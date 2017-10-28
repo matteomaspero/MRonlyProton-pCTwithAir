@@ -10,6 +10,8 @@ The matlab code to produce bulk assigned pseudo-CT (pCT) with internal air cavit
 
 Run the code? Simply clone/download the repository and run Preparation_MRCAT_MRair.m within Matlab. Note that the code has been developed and benchmarked in Matlab R2015a and we do not ensure/support workability for different versions of Matlab.
 
+Run the code without downloading anything? Go to Ocean Code share capsule: [https://codeocean.com/2017/10/27/mri-only-proton-colon-bulk-assigned-pseudo-ct-images-generation-with-air/](https://codeocean.com/2017/10/27/mri-only-proton-colon-bulk-assigned-pseudo-ct-images-generation-with-air/) and simply click run and wait about 1 min to get the output. You will also be able to inspect the code and directly work there!
+
 ### Support or Contact
 
 In case of questions or issues, please contact the owner of the repository & we’ll help you sort it out. Thank yo very much in advance for your questions!
